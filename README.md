@@ -8,7 +8,7 @@ Singularity image for AFLGo (https://github.com/aflgo/aflgo)
 - usage:
 
 ```
-singularity pull --name aflgo.sif https://github.com/shub-fuzz/aflgo/releases/download/0.0.1/shub-fuzz-aflgo.1604.sif
+singularity pull --name aflgo.sif https://github.com/shub-fuzz/aflgo/releases/download/0.0.2/shub-fuzz-aflgo.1604.sif
 
 singularity shell aflgo.sif
 ```
